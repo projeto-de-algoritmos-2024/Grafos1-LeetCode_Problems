@@ -13,8 +13,8 @@
 
 Este projeto consiste na resolução de um problema específico de grafos do LeetCode, utilizando a linguagem C para garantir desempenho e clareza na solução. A proposta é modificar pesos das arestas para alcançar o objetivo especificado no problema, explorando estruturas de dados otimizadas.
 
-| Problema | Código | Descrição                    | Nível de Dificuldade |
-|----------|--------|------------------------------|-----------------------|
+| Problema | Descrição                    | Nível de Dificuldade |
+|----------|------------------------------|-----------------------|
 | 2699     | Modificar Pesos das Arestas do Grafo | Difícil                |
 
 
