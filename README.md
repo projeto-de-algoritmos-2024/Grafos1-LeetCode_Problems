@@ -1,37 +1,29 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Grafos1-LeetCode_Problems
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1
+**Conteúdo da Disciplina**: Grafos1
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 211041099  |  Ana Catarina Santos |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+Este projeto consiste na resolução de um problema específico de grafos do LeetCode, utilizando a linguagem C para garantir desempenho e clareza na solução. A proposta é modificar pesos das arestas para alcançar o objetivo especificado no problema, explorando estruturas de dados otimizadas.
+
+| Problema | Código | Descrição                    | Nível de Dificuldade |
+|----------|--------|------------------------------|-----------------------|
+| 2699     | Modificar Pesos das Arestas do Grafo | Difícil                |
+
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: python<br>
+**Framework**: - <br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
