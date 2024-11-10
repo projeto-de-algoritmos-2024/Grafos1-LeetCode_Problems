@@ -17,6 +17,8 @@ Este projeto consiste na resolução de um problema específico de grafos do Lee
 |----------|------------------------------|-----------------------|
 | 2699     | Modificar Pesos das Arestas do Grafo | Difícil                |
 | 882     | Reachable Nodes In Subdivided Graph | Difícil                |
+| 133     | Clone Graph | Media               |
+
 
 
 ## Screenshots
@@ -26,7 +28,6 @@ Desafio 882
 
 ## Instalação 
 **Linguagem**: python<br>
-**Framework**: - <br>
 
 ## Uso 
 Ao final do script descomente a linha que tem o caso de teste que deseja ver e execute no terminal "python {caminho_solucao_}.py"
