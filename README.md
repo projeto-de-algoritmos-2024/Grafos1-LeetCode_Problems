@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 211041099  |  Ana Catarina Santos |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 200043030  |  Renann de Oliveira Gomes |
 
 ## Sobre 
 
@@ -16,21 +16,21 @@ Este projeto consiste na resolução de um problema específico de grafos do Lee
 | Problema | Descrição                    | Nível de Dificuldade |
 |----------|------------------------------|-----------------------|
 | 2699     | Modificar Pesos das Arestas do Grafo | Difícil                |
+| 882     | Reachable Nodes In Subdivided Graph | Difícil                |
 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Desafio 882 
+
+![image](./882%20-%20Hard/images/sub_882_succes.png)
 
 ## Instalação 
 **Linguagem**: python<br>
 **Framework**: - <br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Ao final do script descomente a linha que tem o caso de teste que deseja ver e execute no terminal "python {caminho_solucao_}.py"
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
