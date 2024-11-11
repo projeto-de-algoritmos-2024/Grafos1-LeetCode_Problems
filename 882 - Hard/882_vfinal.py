@@ -18,10 +18,10 @@ class Solution:
         Grafo = defaultdict(set)
 
         # Distancia de cada no do a partir de 0 inicialmente é infinita
-        distancia = [float('inf')] * N
+        distancia = [float('inf')] * N # inf, inf, inf
 
         # Setando a distancia do 0 para ele mesmo como 0
-        distancia[0] = 0
+        distancia[0] = 0 # 0, inf, inf
         
         # De acordo o que foi inputado vamos, montar o grafo com apenas os nos 
         # originais e seus pesos (w+1), pois ele conta o no mesmo 
@@ -38,7 +38,7 @@ class Solution:
             min_distancia, idx = heappop(heap)
             for no_vizinho, custo in Grafo[idx]:
                 cand = min_distancia + custo
-                if cand < distancia[no_vizinho]:
+                if cand < distancia[no_vizinho]: # 0, 5, 2
                     distancia[no_vizinho] = cand
                     heappush(heap, (cand, no_vizinho)) 
 

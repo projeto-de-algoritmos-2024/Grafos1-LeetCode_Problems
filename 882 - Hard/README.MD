@@ -1,5 +1,6 @@
 ## #882. Reachable Nodes In Subdivided Graph
 
+[Resolução](https://www.youtube.com/watch?v=5lIMU8bg6V8)
 [Link para a questão](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
 
 You are given an undirected graph (the "original graph") with n nodes labeled from 0 to n - 1. You decide to subdivide each edge in the graph into a chain of nodes, with the number of new nodes varying between each edge.

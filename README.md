@@ -28,8 +28,14 @@ Desafio 2699
 ![image](2699-Hard/images/accepted.png)
 
 Desafio 882 
+[Resolução](https://www.youtube.com/watch?v=5lIMU8bg6V8)
 
 ![image](./882%20-%20Hard/images/sub_882_succes.png)
+
+Desafio 133 
+[Resolução](https://www.youtube.com/watch?v=h_7yfdTBoIg)
+
+![image](./133%20-%20medium/images/133_sucess2.png)
 
 ## Instalação 
 **Linguagem**: python<br>
