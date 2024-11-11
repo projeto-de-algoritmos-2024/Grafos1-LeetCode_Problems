@@ -40,6 +40,6 @@ Example 3
 
 ### Submissões: 
 
-![image](./images/)
+![image](./images/tries.png)
 
-![image](./images/)
+![image](./images/accepted.png)
